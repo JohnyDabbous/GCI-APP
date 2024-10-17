@@ -1,4 +1,4 @@
-# Contents of APP BEGINNINGS FILE:
+# Contents of APP BEGINNINGS:
 
 * Contains copied code from apple developers website
 * The majority of this code involves the general outlines of app selection and personalized shields
