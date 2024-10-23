@@ -10,4 +10,4 @@
 * has intiation (start) button
 * circular animation countdown with filling and strokes
 
-(be warned, my XCode is older than yours, so there are things you might need to update to actually get it to work :<)
+(be warned, my XCode is older than yours, so there are things you might need to update to get it to work :<)
